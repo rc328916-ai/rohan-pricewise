@@ -1,0 +1,6 @@
+{
+  "name": "PriceWise - Multi-Store Price Tracker & Visual Scanner",
+  "description": "Smart cross-platform price comparison across Daraz, Amazon, Flipkart, Myntra, Croma, Ajio, and Tata CLiQ with visual scanner and 7-day price drop history.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
